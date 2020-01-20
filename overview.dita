@@ -7,5 +7,40 @@
         <p>This is only necessary because of the applied schema.</p>
         <p>Another paragraph.<image href="renamed.png" placement="break" id="image_ofy_kwh_lkb"
                 alt="The Attack of the Seagulls"/></p>
+        <table id="table_c5v_fyh_lkb">
+            <title id="sample-table">Sample table</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="newCol3" colnum="2" colwidth="1*"/>
+                <colspec colname="newCol4" colnum="3" colwidth="1*"/>
+                <colspec colname="newCol2" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Parameter</entry>
+                        <entry>Description</entry>
+                        <entry>Data type</entry>
+                        <entry>Default</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>alma</entry>
+                        <entry>The first stooge.</entry>
+                        <entry morerows="2">string</entry>
+                        <entry>Required.</entry>
+                    </row>
+                    <row>
+                        <entry>barack</entry>
+                        <entry>The second stooge.</entry>
+                        <entry>Required.</entry>
+                    </row>
+                    <row>
+                        <entry>cekla</entry>
+                        <entry>An optional third stooge.</entry>
+                        <entry>"3"</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
     </conbody>
 </concept>
