@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kn5_lvh_lkb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Installing</title>
+    <shortdesc>How to install your Superbest on Windows.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p id="npm">Make sure you have <b>npm</b> installed.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>npm -v</cmd>
             </step>
+            <step>
+                <cmd>npm install superbest --save</cmd>
+            </step>
+            <stepsection>
+                <codeblock>---
+# A list of tasty fruits
+- Apple
+- Orange
+- Strawberry
+- Mango
+...</codeblock>
+                <image href="bild237680-resimage_v-variantBig1xN_w-1024.jpg" placement="break"
+                    id="image_hd1_lxh_lkb"/>
+            </stepsection>
         </steps>
     </taskbody>
 </task>
