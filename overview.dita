@@ -4,7 +4,8 @@
     <title>Overview</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>This is only necessary because of the applied schema.</p>
+        <p>This is only necessary because of the applied
+            <?oxy_comment_start author="aproragadozo" timestamp="20200120T152259+0100" comment="Agree?"?>schema<?oxy_comment_end?>.</p>
         <p>Another paragraph.<image href="renamed.png" placement="break" id="image_ofy_kwh_lkb"
                 alt="The Attack of the Seagulls"/></p>
         <table id="table_c5v_fyh_lkb">
