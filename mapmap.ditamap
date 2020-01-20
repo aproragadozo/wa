@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title></title>
+    <title>Totally
+        <?oxy_comment_start author="aproragadozo" timestamp="20200120T145432+0100" comment="Is this correct?"?>not<?oxy_comment_end?>
+        a virus</title>
+    <?oxy_insert_start author="aproragadozo" timestamp="20200120T145121+0100"?>
+    <topicref id="overview-ref" href="overview.dita" type="concept" format="dita"/>
+    <topicref id="install-ref" href="installation.dita" type="task" format="dita"/>
+    <?oxy_insert_end?>
+    <topicref><?oxy_delete author="aproragadozo" timestamp="20200120T145101+0100" content="&lt;topicref href=&quot;overview.dita&quot;/&gt;"?></topicref>
 </map>
+<?oxy_options track_changes="on"?>
