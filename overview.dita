@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ozm_hvh_lkb">
-    <title></title>
+    <title>Overview</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p>This is only necessary because of the applied schema.</p>
+        <p>Another paragraph.<image href="renamed.png" placement="break" id="image_ofy_kwh_lkb"
+                alt="The Attack of the Seagulls"/></p>
     </conbody>
 </concept>
