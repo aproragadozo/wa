@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kn5_lvh_lkb">
-    <title>Installing</title>
+    <title><?oxy_comment_start author="aproragadozo" timestamp="20200120T152337+0100" comment="po-TEI-to or po-TAI-to?"?>Installing<?oxy_comment_end?></title>
     <shortdesc>How to install your Superbest on Windows.</shortdesc>
     <taskbody>
         <context>
@@ -22,8 +22,9 @@
 - Strawberry
 - Mango
 ...</codeblock>
+                <?oxy_comment_start author="aproragadozo" timestamp="20200120T152240+0100" comment="Adding a comment here for no good reason."?>
                 <image href="bild237680-resimage_v-variantBig1xN_w-1024.jpg" placement="break"
-                    id="image_hd1_lxh_lkb"/>
+                    id="image_hd1_lxh_lkb"><?oxy_comment_end?></image>
                 <table conref="overview.dita#concept_ozm_hvh_lkb/table_c5v_fyh_lkb"
                     id="table_why_5yh_lkb">
                     <tgroup cols="1">
