@@ -2,9 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Totally
-        <?oxy_comment_start author="aproragadozo" timestamp="20200120T145432+0100" comment="Is this correct?"?>not<?oxy_comment_end?>
+        <?oxy_comment_start author="aproragadozo" timestamp="20200120T145432+0100" comment="Is this correct?" id="dcw_2p2_mkb"?><?oxy_comment_start author="dombaililla" timestamp="20200123T165701+0000" comment="yes" parentID="dcw_2p2_mkb" mid="1"?>not<?oxy_comment_end mid="1"?><?oxy_comment_end?>
         a virus</title>
-    <?oxy_insert_start author="aproragadozo" timestamp="20200120T145121+0100"?>
+    <?oxy_insert_start author="aproragadozo" timestamp="20200120T145121+0100" flag="done"?>
     <topicref id="overview-ref" href="overview.dita" type="concept" format="dita" keyref="o-v"/>
     <topicref id="install-ref" href="installation.dita" type="task" format="dita"/>
     <?oxy_insert_end?>
