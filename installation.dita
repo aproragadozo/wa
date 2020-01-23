@@ -2,10 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kn5_lvh_lkb">
     <title><?oxy_comment_start author="aproragadozo" timestamp="20200120T152337+0100" comment="po-TEI-to or po-TAI-to?"?>Installing<?oxy_comment_end?></title>
-    <shortdesc>How to install your Superbest on Windows.</shortdesc>
+    <shortdesc>How to install your Superbest on
+        <?oxy_comment_start author="dombaililla" timestamp="20200123T154914+0000" comment="yet another useful comment"?>Windows<?oxy_comment_end?>.</shortdesc>
     <taskbody>
         <context>
-            <p id="npm">Make sure you have <b>npm</b> installed.</p>
+            <p id="npm">Make sure you have <b>npm</b> installed. Also to match your outfit with your
+                phone's color.</p>
         </context>
         <steps>
             <step>
