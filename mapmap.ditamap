@@ -15,5 +15,12 @@
     <topicref href="nextchapter.dita"/>
     <?oxy_insert_end?>
     <topicref><?oxy_delete author="aproragadozo" timestamp="20200120T145101+0100" content="&lt;topicref href=&quot;overview.dita&quot;/&gt;"?></topicref>
+    <keydef keys="flavor">
+        <topicmeta>
+            <keywords>
+                <keyword>Strawberry</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>
 <?oxy_options track_changes="on"?>
