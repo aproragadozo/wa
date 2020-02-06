@@ -15,5 +15,14 @@
     <topicref href="nextchapter.dita"/>
     <?oxy_insert_end?>
     <topicref><?oxy_delete author="aproragadozo" timestamp="20200120T145101+0100" content="&lt;topicref href=&quot;overview.dita&quot;/&gt;"?></topicref>
+    <?oxy_insert_start author="BalázsBujna" timestamp="20200206T203210+0100"?>
+    <keydef keys="o-v">
+        <topicmeta>
+            <keywords>
+                <keyword>NAGYMAMA</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <?oxy_insert_end?>
 </map>
 <?oxy_options track_changes="on"?>
